@@ -1,32 +1,4 @@
-# Cosmic Gesture AR Engine
 
-A real-time interactive Augmented Reality gesture engine built using Python, OpenCV, and MediaPipe.
-
-## 🚀 Features
-
-- Real-time 21-point hand landmark tracking
-- Elastic neon energy strings with glow
-- Lightning and beam interaction modes
-- Gesture-based spell recognition
-- Holographic HUD panel
-- Combo gesture detection
-- Optimized high-FPS rendering
-
-## 🧠 Gesture Controls
-
-- Pinch → Switch interaction mode
-- Fist → Force Pulse
-- Open Palm → Energy Shield
-- Two Fingers → Lightning Boost
-
-## 🛠 Tech Stack
-
-- Python
-- OpenCV
-- MediaPipe
-- NumPy
-
-## ▶ How to Run
 # Cosmic Gesture AR Engine
 
 A real-time interactive Augmented Reality gesture engine built using Python, OpenCV, and MediaPipe.
